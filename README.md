@@ -1,7 +1,7 @@
 # homebrew-tap
-Homebrew formulae for simlans projects.
+Homebrew formulae for lansidev projects.
 
 ```bash
-brew tap simlans/tap
+brew tap lansidev/tap
 brew install op-cache
 ```
